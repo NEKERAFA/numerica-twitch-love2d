@@ -1,0 +1,6 @@
+[submodule "libs/twitch"]
+	path = libs/twitch
+	url = https://github.com/NEKERAFA/twitch.lua.git
+[submodule "libs/irc-parser"]
+	path = libs/irc-parser
+	url = https://github.com/jprjr/lua-irc-parser.git
